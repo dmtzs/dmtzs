@@ -8,7 +8,7 @@
 * Bash
 * HTML, CSS
 * Kotlin
-<br>
+
 ## Frameworks
 * Django
 * Flask
