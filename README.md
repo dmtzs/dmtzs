@@ -18,3 +18,6 @@ I will attach my resume as fast as I can.<br>
 
 ## About me
 I really would like to learn more about software and not just limited to what I already described here or done in this github. I think I´m a junior developer and I hope I can develop software much of my life.
+
+## LinkedIn
+[LinkedIn profile](www.linkedin.com/in/diego-martinez-sanchez-688b0311ac)
