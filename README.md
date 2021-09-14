@@ -5,7 +5,6 @@ Specialized in programming with many languages and design of electronic circuits
 
 ## Knowledge areas
 - Good adaptation in new technologies.
-- Github: https://github.com/dmtzs
 - Experience and knowledge with the next programming languages:
 - Python.
 - C.
@@ -42,3 +41,7 @@ I really would like to learn more about software and not just limited to what I 
 For more information about my proffesional profile please visit my linked in profile.
 <br>
 [LinkedIn profile](https://mx.linkedin.com/in/diego-martinez-sanchez-688b0311a)
+
+## About my github
+[![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=dmtzs&hide=contribs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmtzs&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
