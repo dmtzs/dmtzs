@@ -1,6 +1,4 @@
 # Hi there 👋
-
-## My name is Diego Martínez Sánchez and I like to program, I´m still on my search of a job in which I can be able to keep improving my programming skills.
 Specialized in programming with many languages and design of electronic circuits with microcontrollers for the creation of sensors and automation through software and hardware.
 
 ## Knowledge areas
