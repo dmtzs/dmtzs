@@ -43,5 +43,4 @@ For more information about my proffesional profile please visit my linked in pro
 [LinkedIn profile](https://mx.linkedin.com/in/diego-martinez-sanchez-688b0311a)
 
 ## About my github
-[![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=dmtzs&hide=contribs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmtzs&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=dmtzs&hide=contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmtzs&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
