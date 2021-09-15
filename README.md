@@ -67,10 +67,10 @@ I really would like to learn more about software and not just limited to what I 
 <br>
 Please take a look to my pinned repositories that are the ones with highest functionality.
 
-## LinkedIn
+## LinkedIn :alien:
 For more information about my professional profile please visit my linked in profile.
 <br>
-:alien: [LinkedIn profile](https://mx.linkedin.com/in/diego-martinez-sanchez-688b0311a)
+[![LinkedIn profile](https://img.shields.io/badge/-Diego-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://mx.linkedin.com/in/diego-martinez-sanchez-688b0311a/)](https://mx.linkedin.com/in/diego-martinez-sanchez-688b0311a)
 
 ## About my github
 All the information shown in the frames below just describes what I use more in my github but my skills are not limited only in this.
