@@ -40,11 +40,6 @@ Specialized in programming with many languages and design of electronic circuits
 <br>
 :clap:Spanish (native)
 
-## Scholarship
-Universidad Iberoamericana, Mexico city – ENG. Computing technologies and telecommunications.
-<br>
-Engineering in programming microprocessors and creation of software including disciplines of an programming architect with all the technical background necessary for developing solutions that applies to software and hardware. And it´s respective documentation for the understanding of non-tech areas.
-
 ## Hobbies
 I like to learn for myself, with courses of my interests in programming fields.
 <br>
