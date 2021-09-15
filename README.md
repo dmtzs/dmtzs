@@ -1,6 +1,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/dmtzs?label=Follow&style=social)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=dmtzs)
-[![LinkedIn profile](https://img.shields.io/badge/-Diego-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://mx.linkedin.com/in/diego-martinez-sanchez-688b0311a/)](https://mx.linkedin.com/in/diego-martinez-sanchez-688b0311a) :alien:
+[![LinkedIn profile](https://img.shields.io/badge/-Diego-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://mx.linkedin.com/in/diego-martinez-sanchez-688b0311a/)](https://mx.linkedin.com/in/diego-martinez-sanchez-688b0311a)
+[![Twitch profile](https://img.shields.io/badge/-diecho1996-black?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/diecho1996/)](https://www.twitch.tv/diecho1996) :alien:
 
 # Hi there 👋 Im Diego and Im a developer xD
 Specialized in programming with many languages and design of electronic circuits with microcontrollers for the creation of sensors and automation through software and hardware.
