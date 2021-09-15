@@ -15,7 +15,7 @@ Specialized in programming with many languages and design of electronic circuits
 * :boom:Databases :boom:
   * :heavy_check_mark:SQL
   * :heavy_check_mark:NOSQL
-* Frameworks :boom:
+* :boom:Frameworks :boom:
   * :heavy_check_mark:Flask
   * :heavy_check_mark:Django
 * :boom:Code editoras and IDE´s :boom:
