@@ -1,5 +1,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/dmtzs?label=Follow&style=social)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=dmtzs)
+[![LinkedIn profile](https://img.shields.io/badge/-Diego-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://mx.linkedin.com/in/diego-martinez-sanchez-688b0311a/)](https://mx.linkedin.com/in/diego-martinez-sanchez-688b0311a) :alien:
 
 # Hi there 👋 Im Diego and Im a developer xD
 Specialized in programming with many languages and design of electronic circuits with microcontrollers for the creation of sensors and automation through software and hardware.
@@ -51,10 +52,8 @@ I really would like to learn more about software and not just limited to what I 
 <br>
 Please take a look to my pinned repositories that are the ones with highest functionality.
 
-## LinkedIn :alien:
-For more information about my professional profile please visit my linked in profile.
-<br>
-[![LinkedIn profile](https://img.shields.io/badge/-Diego-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://mx.linkedin.com/in/diego-martinez-sanchez-688b0311a/)](https://mx.linkedin.com/in/diego-martinez-sanchez-688b0311a)
+## Professional profile
+Please visit mi linkedIn for more professional information by clicking the linked In button at the top of this README.
 
 ## About my github
 All the information shown in the frames below just describes what I use more in my github but my skills are not limited only in this.
