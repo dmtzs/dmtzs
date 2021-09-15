@@ -34,6 +34,8 @@ Also I like to build personal projects with Arduino, Raspberry, etc. Now I´m bu
 
 ## About me
 I really would like to learn more about software and not just limited to what I already described here or done in this github. I´m a junior developer at JPMorgan Chase and I hope I can develop software much of my life.
+<br>
+Please take a look to my pinned repositories that are the ones with highest functionality.
 
 ## LinkedIn
 For more information about my proffesional profile please visit my linked in profile.
