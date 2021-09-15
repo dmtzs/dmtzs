@@ -36,15 +36,20 @@ Specialized in programming with many languages and design of electronic circuits
   *	:heavy_check_mark:Linux and Windows OS management with user interface and/or command line
 
 ## PERSONAL SKILLS
-*	:call_me_hand:Creativity
-*	:call_me_hand:Teamwork
-*	:call_me_hand:Desire to learn
-*	:call_me_hand:Attention to detail
-*	:call_me_hand:Multidisciplinary
+:call_me_hand:Creativity
+<br>
+:call_me_hand:Teamwork
+<br>
+:call_me_hand:Desire to learn
+<br>
+:call_me_hand:Attention to detail
+<br>
+:call_me_hand:Multidisciplinary
 
 ## Languages written and spoken
-- :clap:English (good)
-- :clap:Spanish (native)
+:clap:English (good)
+<br>
+:clap:Spanish (native)
 
 ## Scholarship
 Universidad Iberoamericana, Mexico city – ENG. Computing technologies and telecommunications.
