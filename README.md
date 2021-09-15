@@ -35,17 +35,6 @@ Specialized in programming with many languages and design of electronic circuits
   *	:heavy_check_mark:Capacity to learn new programming languages and technologies by myself
   *	:heavy_check_mark:Linux and Windows OS management with user interface and/or command line
 
-## PERSONAL SKILLS
-:call_me_hand:Creativity
-<br>
-:call_me_hand:Teamwork
-<br>
-:call_me_hand:Desire to learn
-<br>
-:call_me_hand:Attention to detail
-<br>
-:call_me_hand:Multidisciplinary
-
 ## Languages written and spoken
 :clap:English (good)
 <br>
