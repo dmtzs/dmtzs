@@ -4,7 +4,7 @@
 # Hi there 👋 Im Diego and Im a developer xD
 Specialized in programming with many languages and design of electronic circuits with microcontrollers for the creation of sensors and automation through software and hardware.
 
-## Programming skills nad knowledge areas
+## Programming skills and knowledge areas
 * :boom:Programming languages :boom:
   *	:heavy_check_mark:Python
   *	:heavy_check_mark:C
