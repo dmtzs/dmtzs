@@ -41,7 +41,7 @@ I really would like to learn more about software and not just limited to what I 
 Please take a look to my pinned repositories that are the ones with highest functionality.
 
 ## LinkedIn
-For more information about my proffesional profile please visit my linked in profile.
+For more information about my professional profile please visit my linked in profile.
 <br>
 [LinkedIn profile](https://mx.linkedin.com/in/diego-martinez-sanchez-688b0311a)
 
