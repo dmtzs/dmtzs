@@ -1,4 +1,7 @@
-# Hi there 👋
+![GitHub followers](https://img.shields.io/github/followers/dmtzs?label=Follow&style=social)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=dmtzs)
+
+# Hi there 👋 Im Diego and Im a developer xD
 Specialized in programming with many languages and design of electronic circuits with microcontrollers for the creation of sensors and automation through software and hardware.
 
 ## Knowledge areas
