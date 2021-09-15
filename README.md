@@ -4,30 +4,52 @@
 # Hi there 👋 Im Diego and Im a developer xD
 Specialized in programming with many languages and design of electronic circuits with microcontrollers for the creation of sensors and automation through software and hardware.
 
-## Knowledge areas
-- Good adaptation in new technologies.
-- Experience and knowledge with the next programming languages:
-- Python.
-- C.
-- JavaScript.
-- Django and Flask frameworks.
-- HTML.
-- SQL y NOSQL for interaction with applications.
-- Docker(Basic).
-- Capacity to learn new programming languages and technologies by myself.
-- Creation of applications with python with graphic interfaces.
-- Programming of microcontrollers like Arduino, kl25z and Raspberry.
-- Servers configuration.
-- Linux and Windows OS management with user interface and/or command line.
+## Programming skills nad knowledge areas
+* :boom:Programming languages :boom:
+  *	:heavy_check_mark:Python
+  *	:heavy_check_mark:C
+  *	:heavy_check_mark:Bash
+  *	:heavy_check_mark:Javascript
+  *	:heavy_check_mark:Kotlin
+  *	:heavy_check_mark:HTML
+* :boom:Databases :boom:
+  * :heavy_check_mark:SQL
+  * :heavy_check_mark:NOSQL
+* Frameworks :boom:
+  * :heavy_check_mark:Flask
+  * :heavy_check_mark:Django
+* :boom:Code editoras and IDE´s :boom:
+  * :heavy_check_mark:Visual studio code
+  * :heavy_check_mark:Atom
+  * :heavy_check_mark:Android studio
+  * :heavy_check_mark:Emacs
+  * :heavy_check_mark:Nano
+* :boom:Hardware :boom:
+  * :heavy_check_mark:Arduino
+  * :heavy_check_mark:KL25Z
+  * :heavy_check_mark:MIPS Assembler
+* :boom: Servers :boom:
+  *	:heavy_check_mark:Docker(Basic)
+  *	:heavy_check_mark:Servers configuration
+* :boom: Other skills :boom:
+  *	:heavy_check_mark:Capacity to learn new programming languages and technologies by myself
+  *	:heavy_check_mark:Linux and Windows OS management with user interface and/or command line
+
+## PERSONAL SKILLS
+*	:call_me_hand:Creativity
+*	:call_me_hand:Teamwork
+*	:call_me_hand:Desire to learn
+*	:call_me_hand:Attention to detail
+*	:call_me_hand:Multidisciplinary
+
+## Languages written and spoken
+- :clap:English (good)
+- :clap:Spanish (native)
 
 ## Scholarship
 Universidad Iberoamericana, Mexico city – ENG. Computing technologies and telecommunications.
 <br>
 Engineering in programming microprocessors and creation of software including disciplines of an programming architect with all the technical background necessary for developing solutions that applies to software and hardware. And it´s respective documentation for the understanding of non-tech areas.
-
-## Languages written and spoken
-- English (good)
-- Spanish (native)
 
 ## Hobbies
 I like to learn for myself, with courses of my interests in programming fields.
@@ -43,7 +65,8 @@ Please take a look to my pinned repositories that are the ones with highest func
 ## LinkedIn
 For more information about my professional profile please visit my linked in profile.
 <br>
-[LinkedIn profile](https://mx.linkedin.com/in/diego-martinez-sanchez-688b0311a)
+:alien: [LinkedIn profile](https://mx.linkedin.com/in/diego-martinez-sanchez-688b0311a)
 
 ## About my github
+All the information shown in the frames below just describes what I use more in my github but my skills are not limited only in this.
 [![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=dmtzs&hide=contribs&show_icons=true&theme=radical)](#)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmtzs&layout=compact&theme=radical)](#)
