@@ -13,14 +13,16 @@ Specialized in programming with many languages and design of electronic circuits
 ## Programming skills and knowledge areas
 * :boom:Programming languages :boom:
   *	:heavy_check_mark:Python
+  *	:heavy_check_mark:Micropython(embedded)
   *	:heavy_check_mark:C
-  *	:heavy_check_mark:Bash
+  *	:heavy_check_mark:C++(embedded)
   *	:heavy_check_mark:Javascript
   *	:heavy_check_mark:Kotlin
   *	:heavy_check_mark:HTML
+  *	:heavy_check_mark:Bash
 * :boom:Databases :boom:
-  * :heavy_check_mark:SQL
-  * :heavy_check_mark:NOSQL
+  * :heavy_check_mark:MySQL
+  * :heavy_check_mark:MongoDB
 * :boom:Frameworks :boom:
   * :heavy_check_mark:Flask
   * :heavy_check_mark:Django
