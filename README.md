@@ -35,7 +35,6 @@ Specialized in programming with many languages and design of electronic circuits
 * :boom:Hardware :boom:
   * :heavy_check_mark:Arduino
   * :heavy_check_mark:KL25Z
-  * :heavy_check_mark:MIPS Assembler
 * :boom: Servers :boom:
   *	:heavy_check_mark:Docker(Basic)
   *	:heavy_check_mark:Servers configuration
