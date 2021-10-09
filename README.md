@@ -27,7 +27,6 @@ Specialized in programming with many languages and design of electronic circuits
   * :heavy_check_mark:MongoDB
 * :boom:Frameworks :boom:
   * :heavy_check_mark:Flask
-  * :heavy_check_mark:Django
 * :boom:Code editoras and IDE´s :boom:
   * :heavy_check_mark:Visual studio code
   * :heavy_check_mark:Atom
