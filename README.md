@@ -65,4 +65,4 @@ Please visit mi linkedIn for more professional information by clicking the linke
 
 ## About my github
 All the information shown in the frames below just describes what I use more in my github but my skills are not limited only in this.
-[![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=dmtzs&hide=contribs&show_icons=true&theme=radical)](#)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmtzs&layout=compact&theme=radical)](#)
+[![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=dmtzs&show_icons=true&theme=radical)](#)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmtzs&layout=compact&theme=radical)](#)
