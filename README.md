@@ -19,12 +19,12 @@ Specialized in programming with many languages and design of electronic circuits
   *	:heavy_check_mark:C
   *	:heavy_check_mark:C++(embedded)
   *	:heavy_check_mark:Javascript
-  *	:heavy_check_mark:Kotlin
   *	:heavy_check_mark:HTML
   *	:heavy_check_mark:Bash
+  *	:heavy_check_mark:Kotlin
 * :boom:Databases :boom:
-  * :heavy_check_mark:MySQL
   * :heavy_check_mark:MongoDB
+  * :heavy_check_mark:MySQL
 * :boom:Frameworks :boom:
   * :heavy_check_mark:Flask
   * :heavy_check_mark:ElectronJS
@@ -36,9 +36,11 @@ Specialized in programming with many languages and design of electronic circuits
   * :heavy_check_mark:Nano
 * :boom:Hardware :boom:
   * :heavy_check_mark:Arduino
+  * :heavy_check_mark:Raspberry
   * :heavy_check_mark:KL25Z
 * :boom: Servers :boom:
   *	:heavy_check_mark:Docker(Basic)
+  *	:heavy_check_mark:AWS
   *	:heavy_check_mark:Servers configuration
 * :boom: Other skills :boom:
   *	:heavy_check_mark:Capacity to learn new programming languages and technologies by myself
