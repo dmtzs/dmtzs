@@ -28,7 +28,7 @@ Specialized in programming with many languages and design of electronic circuits
 * :boom:Frameworks :boom:
   * :heavy_check_mark:Flask
   * :heavy_check_mark:ElectronJS
-* :boom:Code editoras and IDE´s :boom:
+* :boom:Code editors and IDE´s :boom:
   * :heavy_check_mark:Visual studio code
   * :heavy_check_mark:Atom
   * :heavy_check_mark:Android studio
