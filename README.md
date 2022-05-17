@@ -28,6 +28,7 @@ Specialized in programming with many languages and design of electronic circuits
 * :boom:Frameworks :boom:
   * :heavy_check_mark:Flask
   * :heavy_check_mark:ElectronJS
+  * :heavy_check_mark:Serverless
 * :boom:Code editors and IDE´s :boom:
   * :heavy_check_mark:Visual studio code
   * :heavy_check_mark:Atom
@@ -39,7 +40,7 @@ Specialized in programming with many languages and design of electronic circuits
   * :heavy_check_mark:Raspberry
   * :heavy_check_mark:KL25Z
 * :boom: Servers :boom:
-  *	:heavy_check_mark:Docker(Basic)
+  *	:heavy_check_mark:Docker
   *	:heavy_check_mark:AWS
   *	:heavy_check_mark:Servers configuration
 * :boom: Other skills :boom:
