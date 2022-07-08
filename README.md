@@ -21,7 +21,6 @@ Specialized in programming with many languages and design of electronic circuits
   *	:heavy_check_mark:Javascript
   *	:heavy_check_mark:HTML
   *	:heavy_check_mark:Bash
-  *	:heavy_check_mark:Kotlin
 * :boom:Databases :boom:
   * :heavy_check_mark:MongoDB
   * :heavy_check_mark:MySQL
@@ -31,14 +30,13 @@ Specialized in programming with many languages and design of electronic circuits
   * :heavy_check_mark:Serverless
 * :boom:Code editors and IDE´s :boom:
   * :heavy_check_mark:Visual studio code
-  * :heavy_check_mark:Atom
-  * :heavy_check_mark:Android studio
   * :heavy_check_mark:Emacs
   * :heavy_check_mark:Nano
 * :boom:Hardware :boom:
   * :heavy_check_mark:Arduino
   * :heavy_check_mark:Raspberry
   * :heavy_check_mark:KL25Z
+  * :heavy_check_mark:ESP32
 * :boom: Servers :boom:
   *	:heavy_check_mark:Docker
   *	:heavy_check_mark:AWS
