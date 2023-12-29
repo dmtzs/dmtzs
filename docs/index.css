@@ -36,17 +36,25 @@ h3 {
 
 /* Colors */
 h1 {
-    color: #111;
+    color: #FFFFFF;
+}
+
+p {
+    color: #A9A9A9;
+}
+
+.ulRight li, .ulLeft li {
+    color: #A9A9A9;
 }
 
 .leftPanel,
 .leftPanel a {
-    color: #bebebe;
+    color: #A9A9A9;
     text-decoration: none;
 }
 
 .leftPanel h2 {
-    color: white;
+    color: #FFFFFF;
 }
 
 /* End Colors */
@@ -73,14 +81,14 @@ h2 {
 
 .projectName span,
 .jobPosition span {
-    font-size: 0.35cm;
+    font-size: 0.49cm;
 }
 
 .smallText,
 .smallText span,
 .smallText p,
 .smallText a {
-    font-size: 0.35cm;
+    font-size: 0.43cm;
 }
 
 .leftPanel .smallText,
@@ -108,14 +116,14 @@ p {
 }
 
 .white {
-    color: white;
+    color: #FFFFFF;
 }
 
 /* End Fonts */
 
 /* Layout */
 body {
-    background: rgb(204, 204, 204);
+    background: #323131;
     width: 21cm;
     height: 29.7cm;
     margin: 0 auto;
@@ -123,10 +131,10 @@ body {
 
 /* Printing */
 page {
-    background: white;
+    background: #000000;
     display: block;
     margin: 0 auto;
-    margin-bottom: 0.5cm;
+    margin-bottom: 0;
 }
 
 page[size="A4"] {
@@ -153,7 +161,7 @@ page[size="A4"] {
 
 .leftPanel {
     width: 27%;
-    background-color: #484444;
+    background-color: #1A1A1A;
     padding: 0.7cm;
     display: flex;
     flex-direction: column;
@@ -163,6 +171,7 @@ page[size="A4"] {
 .rightPanel {
     width: 73%;
     padding: 0.7cm;
+    background-color: #654848;
 }
 
 .leftPanel img {
@@ -188,7 +197,7 @@ page[size="A4"] {
 }
 
 .bottomLineSeparator {
-    border-bottom: 0.05cm solid white;
+    border-bottom: 0.05cm solid #FFFFFF;
 }
 
 .yearsOfExperience {
@@ -222,7 +231,7 @@ page[size="A4"] {
 }
 
 .workExperience>ul>li:before {
-    background-color: #b8abab;
+    background-color: #FFFFFF;
     width: 0.05cm;
     content: '';
     position: absolute;
@@ -266,6 +275,19 @@ page[size="A4"] {
 .workExperience>ul>li ul {
     padding-left: 0.5cm;
     list-style-type: disc;
+}
+
+.divUl {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.ulRight {
+    margin-right: 20px;
+}
+
+.ulLeft {
+    margin-left: 20px;
 }
 
 /*End Layout*/
