@@ -1,11 +1,28 @@
 #!/bin/bash
 
+if [ "$EUID" -eq 0 ]; then
+    echo -e "\e[31mError:\e[0m No ejecutes este script como root ni con sudo. Ejecuta como usuario normal."
+    exit 1
+fi
+# instalar unzip
+sudo apt update -y && sudo apt upgrade -y
+sudo apt autoremove -y
+
+# verifica si unzip está instalado
+if command -v unzip &> /dev/null
+then
+    echo "unzip ya está instalado."
+else
+    echo "unzip no está instalado, instalando..."
+    sudo apt install -y unzip
+fi
+
 curl -s https://ohmyposh.dev/install.sh | sudo bash -s -- -d /usr/local/bin
 
 LINE='eval "$(/usr/local/bin/oh-my-posh init bash --config "https://raw.githubusercontent.com/dmtzs/dmtzs/refs/heads/master/pythonvenv.omp.json")"'
 FILE=$HOME/.bashrc
 ROOT_FILE=/root/.bashrc
-ALIAS="alias logols='logo-ls'"
+ALIAS="alias lls='logo-ls'"
 
 grep -qxF "$LINE" $FILE || echo -e "\n$LINE" >> $FILE
 grep -qxF "$ALIAS" $FILE || echo -e "\n$ALIAS" >> $FILE
