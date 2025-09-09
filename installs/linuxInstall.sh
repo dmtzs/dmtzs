@@ -1,22 +1,24 @@
 #!/bin/bash
 
 if [ "$EUID" -eq 0 ]; then
-    echo -e "\e[31mError:\e[0m No ejecutes este script como root ni con sudo. Ejecuta como usuario normal."
+    echo -e "❌ \e[31mError:\e[0m No ejecutes este script como root ni con sudo. Ejecuta como usuario normal."
     exit 1
 fi
-# instalar unzip
+# 📦 instalar unzip
+echo "🔄 Actualizando sistema..."
 sudo apt update -y && sudo apt upgrade -y
 sudo apt autoremove -y
 
 # verifica si unzip está instalado
 if command -v unzip &> /dev/null
 then
-    echo "unzip ya está instalado."
+    echo "✅ unzip ya está instalado."
 else
-    echo "unzip no está instalado, instalando..."
+    echo "📦 unzip no está instalado, instalando..."
     sudo apt install -y unzip
 fi
 
+echo "🎨 Instalando Oh My Posh..."
 curl -s https://ohmyposh.dev/install.sh | sudo bash -s -- -d /usr/local/bin
 
 LINE='eval "$(/usr/local/bin/oh-my-posh init bash --config "https://raw.githubusercontent.com/dmtzs/dmtzs/refs/heads/master/pythonvenv.omp.json")"'
@@ -41,17 +43,18 @@ grep -qxF "$ALIAS" $ROOT_FILE || echo -e "\n$ALIAS" >> $ROOT_FILE
 sudo su -c '
 if ! command -v go &> /dev/null
 then
-    echo "go could not be found, installing..."
+    echo "🐹 go could not be found, installing..."
     apt update
     apt install -y golang-go
 fi
 
+echo "📁 Instalando logo-ls..."
 curl https://raw.githubusercontent.com/UTFeight/logo-ls-modernized/master/INSTALL | bash
 '
 
 # Variables para el resumen
-SUCCESS_MSG="\e[32mÉxito:\e[0m"
-FAIL_MSG="\e[31mFallo:\e[0m"
+SUCCESS_MSG="✅ \e[32mÉxito:\e[0m"
+FAIL_MSG="❌ \e[31mFallo:\e[0m"
 SUMMARY=""
 
 # Verificar instalación de oh-my-posh
@@ -87,5 +90,5 @@ else
 fi
 
 # Mostrar resumen
-echo -e "\nResumen de la instalación:\n$SUMMARY"
-# Falta probarlo en una pc con Ubuntu instalado
+echo -e "\n📋 Resumen de la instalación:\n$SUMMARY"
+# 🧪 Falta probarlo en una pc con Ubuntu instalado
