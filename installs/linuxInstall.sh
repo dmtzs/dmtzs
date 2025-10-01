@@ -1,5 +1,6 @@
 #!/bin/bash
 
+clear
 if [ "$EUID" -eq 0 ]; then
     echo -e "❌ \e[31mError:\e[0m No ejecutes este script como root ni con sudo. Ejecuta como usuario normal."
     exit 1
@@ -8,6 +9,24 @@ fi
 echo "🔄 Actualizando sistema..."
 sudo apt update -y && sudo apt upgrade -y
 sudo apt autoremove -y
+
+# verifica si curl está instalado
+if command -v curl &> /dev/null
+then
+    echo "✅ curl ya está instalado."
+else
+    echo "📦 curl no está instalado, instalando..."
+    sudo apt install -y curl
+fi
+
+# verifica si git está instalado
+if command -v git &> /dev/null
+then
+    echo "✅ git ya está instalado."
+else
+    echo "📦 git no está instalado, instalando..."
+    sudo apt install -y git
+fi
 
 # verifica si unzip está instalado
 if command -v unzip &> /dev/null
