@@ -44,6 +44,22 @@ else
     sudo apt install -y unzip
 fi
 
+# verifica si python3-venv está instalado para la versión de Python disponible
+PYTHON_VERSION=$(python3 --version 2>&1 | grep -oP 'Python \K[0-9]+\.[0-9]+' | head -1)
+if [ -n "$PYTHON_VERSION" ]; then
+    VENV_PACKAGE="python${PYTHON_VERSION}-venv"
+    if python3 -m venv --help &> /dev/null
+    then
+        echo "✅ $VENV_PACKAGE ya está instalado."
+    else
+        echo "📦 $VENV_PACKAGE no está instalado, instalando..."
+        sudo apt install -y "$VENV_PACKAGE"
+    fi
+else
+    echo "⚠️  No se pudo detectar la versión de Python3, instalando python3-venv genérico..."
+    sudo apt install -y python3-venv
+fi
+
 echo "🎨 Instalando Oh My Posh..."
 curl -s https://ohmyposh.dev/install.sh | sudo bash -s -- -d /usr/local/bin
 
@@ -113,6 +129,21 @@ then
     SUMMARY+="$SUCCESS_MSG logo-ls instalado correctamente.\n"
 else
     SUMMARY+="$FAIL_MSG logo-ls no se pudo instalar.\n"
+fi
+
+# Verificar instalación de python-venv
+PYTHON_VERSION=$(python3 --version 2>&1 | grep -oP 'Python \K[0-9]+\.[0-9]+' | head -1)
+if [ -n "$PYTHON_VERSION" ]; then
+    VENV_PACKAGE="python${PYTHON_VERSION}-venv"
+else
+    VENV_PACKAGE="python3-venv"
+fi
+
+if python3 -m venv --help &> /dev/null
+then
+    SUMMARY+="$SUCCESS_MSG $VENV_PACKAGE instalado correctamente.\n"
+else
+    SUMMARY+="$FAIL_MSG $VENV_PACKAGE no se pudo instalar.\n"
 fi
 
 # Mostrar resumen
