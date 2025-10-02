@@ -5,7 +5,6 @@ if [ "$EUID" -eq 0 ]; then
     echo -e "❌ \e[31mError:\e[0m No ejecutes este script como root ni con sudo. Ejecuta como usuario normal."
     exit 1
 fi
-# 📦 instalar unzip
 echo "🔄 Actualizando sistema..."
 sudo apt update -y && sudo apt upgrade -y
 sudo apt autoremove -y
@@ -17,6 +16,14 @@ then
 else
     echo "📦 curl no está instalado, instalando..."
     sudo apt install -y curl
+fi
+
+if command -v libfuse2 &> /dev/null
+then
+    echo "✅ libfuse2 ya está instalado."
+else
+    echo "📦 libfuse2 no está instalado, instalando..."
+    sudo apt install -y libfuse2
 fi
 
 # verifica si git está instalado
